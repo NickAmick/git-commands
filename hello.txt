@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 dev check-in
+=======
+Nick Amick merge check-in branch
+chanmge
+>>>>>>> NickAmick-dev
